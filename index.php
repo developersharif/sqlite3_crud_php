@@ -10,7 +10,6 @@ echo "inserted";
 	echo "not inserted";
 }
 }
-
 ?>
 <!DOCTYPE html>
 <html>
@@ -18,7 +17,7 @@ echo "inserted";
 	<title>sqlite3 tutorial</title>
 </head>
 <body>
-<center><h3>Sqlite3 simple crud tutorial in php</h3>
+<center><h3>simple Sqlite3  crud tutorial in php</h3>
 <!--form-->
 <form action="" method="post">
 	<input type="text" name="name" placeholder="name"> <br>
